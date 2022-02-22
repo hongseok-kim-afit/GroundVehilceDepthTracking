@@ -39,3 +39,5 @@ Calculate the distance from the current position to the target waypoint at the e
 Area: conducted in the same area, a building lobby, to remove a possible confounding variable associated with varying frictional coefficients of the floor
 Tests conducted in Bane auditorium lobby
 
+
+capywright by Hongseok Kim

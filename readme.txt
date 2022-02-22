@@ -1,6 +1,14 @@
 This code aim for 'how to integrate depth camera(D435i), Tracking camera(T265) and autopilot(pixhwak1).
 
-* this code wrote with Python 3.6.9, and without ROS
+Depth camera: intelRealSense D435i
+Tracking camera: intelRealSense T265
+Autopilot: pixhawk1, Firmware: Hover 4.1.2
+Computer process board: Intel Atom X7-E3950, Operation system: Ubuntu 18.04 LTS Bionic Beaver
+code language: Python 3.9.1, used libraries: NumPy, Pyrealsense2, OpenCV, Time, NumPy, matplotlib, PLY, JSON, Pandas 
+protocol: SSH
+
+
+* this code wrote with Python 3.9.1, and without ROS
      Saved data
      1. Numeric Data (JSON file)
           Vehicle information: position coordinates, velocity, acceleration, heading
